@@ -18,9 +18,9 @@ const Home = () => {
             initial="hidden"
             animate="show"
             exit="hidden"
-            className="h1"
+            className="h2"
           >
-            🏆Senior🏆 <br /> WEB | MOBILE{" "}
+            Nickolas D 🏆Senior🏆 <br /> WEB | MOBILE{" "}
             <span className="text-accent">Developer</span>
           </motion.h1>
 
